@@ -1,0 +1,290 @@
+.menu{
+  display:flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+}
+.csi-logo-text{
+  display:flex;
+}
+.csi-krmu-text{
+  margin-left: 20px;
+}
+.link-items{
+  text-decoration: none;
+  margin-left: 50px;
+  padding: 40px;
+}
+
+.btn{
+  color: black;
+  background-color: orange;
+  border-radius: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+
+.best{
+  color:brown;
+  margin-left: 50px;
+}
+
+
+.heading{
+  color: orange;
+  margin-left: 50px;
+}
+
+
+.text{
+  color: brown;
+  width: 60%;
+  margin-left: 50px;
+}
+
+
+.categories{
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+.tiles{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.tiles:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.tilestext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+            /* ----------------------Categories------------------------ */
+.cloth{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.cloth:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.clothtext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+
+
+.keyholder{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.keyholder:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.keyholdertext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+.bamboo{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.bamboo:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.bambootext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+.clay{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.clay:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.claytext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+.jute{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.jute:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.jutetext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+.glass{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.glass:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.glasstext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+.wood{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.wood:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.woodtext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+.mirror{
+  height:150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 50px;
+}
+.mirror:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.mirrortext{
+  margin-left: 100px;
+  margin-top: -40px;
+}
+.experiment{
+  display: flex;
+}
+.experiment2{
+  display: flex;
+}
+
+
+
+         /* ------------------------------footer------------------------ */
+
+
+.footer-logo{
+  height:80px;
+  width:80px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.footer{
+  height:220px;
+  width:100%;
+  background-color: #ADD8E6;
+  padding: 0;
+  margin-top: 100px;
+  position: relative;
+}
+
+.logo-heading1{
+  color: white;
+  margin-left: 30px;
+}
+
+.logo-heading2{
+  color:white;
+  margin-left:  30px;
+}
+
+.logo-heading3{
+  color: white;
+  margin-left: 85%;
+  margin-top: -200px;
+}
+
+.past-events{
+  color: white;
+  margin-left: 85%;
+}
+
+.prizes-certificates{
+  color: white;
+  margin-left: 85%;
+}
+
+.about-us{
+  color: white;
+  margin-left:  85%;
+}
+
+
+.insta{
+  height: 80px;
+  width: 100px;
+  margin-left: 80%;
+}
+
+.fb{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  right:170px;
+  bottom: 35px;
+}
+
+.twitter{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  right:100px;
+  bottom: 35px;
+}
+
+.yt{
+  height: 150px;
+  width :150px;
+  position: absolute;
+  right:-10px;
+  bottom: -20px;
+}
